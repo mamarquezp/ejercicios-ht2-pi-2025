@@ -1,0 +1,27 @@
+{
+  "name": "ejercicios-ht2-pi-2025",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene **ejercicios prácticos** organizados por tema y nivel de dificulta.  \r Los ejercicios están pensados para reforzar los conocimientos adquiridos durante el curso de Programación I y prepararlos para el examen final.",
+  "homepage": "https://github.com/mamarquezp/ejercicios-ht2-pi-2025#readme",
+  "bugs": {
+    "url": "https://github.com/mamarquezp/ejercicios-ht2-pi-2025/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamarquezp/ejercicios-ht2-pi-2025.git"
+  },
+  "license": "ISC",
+  "author": "Mike Marquez",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/src/index",
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "colours": "^0.6.0-2",
+    "inquirer": "^12.6.3",
+    "readline-sync": "^1.4.10"
+  }
+}
