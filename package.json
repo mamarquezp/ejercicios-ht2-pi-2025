@@ -23,5 +23,8 @@
     "colours": "^0.6.0-2",
     "inquirer": "^12.6.3",
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.30"
   }
 }

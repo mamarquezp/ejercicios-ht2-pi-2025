@@ -1,0 +1,3 @@
+[2025-06-07T20:56:20.241Z] Insertado en clientes: {"id":1749329780235,"nombre":"Ana","saldo":2000}
+[2025-06-07T20:56:20.259Z] Eliminado de clientes: id = 1749329780235
+[2025-06-07T20:56:20.279Z] Backup de la DB creado exitosamente!
